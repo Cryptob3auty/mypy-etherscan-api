@@ -7,7 +7,7 @@ setuptools.setup(
               'examples.accounts', 'examples.blocks', 'examples.transactions',  'etherscan'],
     url='https://github.com/Rose2161/mypy-etherscan-api',
     license='The Unlicense',
-    author_changeS='Rose2161, 
+    author_changes='Rose2161, 
     author_email='aisharose2161@gmail.com',
     description='Python Bindings to Etherscan.io API',
     install_requires=[
